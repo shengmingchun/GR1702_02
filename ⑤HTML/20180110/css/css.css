@@ -1,0 +1,30 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+body{
+	font-size:14px;
+	height: auto;
+	width: 900px;
+	margin:0px auto;
+	background-image:url("../images/bubai.jpg");
+}
+.mainbox{
+	height: 400px;
+	width: 195px;
+	margin:3px;
+	padding:0px;
+	border: 1px dashed red;
+	float: left;	
+}
+.mainbox p{
+line-height: 1.5em;
+text-indent: 2em;
+margin: 5px 5px 5px 5px;
+color: blue;
+}
+.mainbox h3{
+	background-color: blue;
+	color: white;
+	padding: 6px 3px 3px 10px;
+}
